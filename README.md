@@ -38,5 +38,5 @@ Frontend: React (basics)
 ##  Contact
 
 [https://www.linkedin.com/in/daniel-vasquez-047a36340/] | [danielvasquezorellana03@gmail.com] |
- [Your Portfolio]
+ [Github]
 
